@@ -1,0 +1,615 @@
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-family: "iranSans", sans-serif;
+}
+.odometer.odometer-auto-theme,.odometer.odometer-theme-default{font-family:"iranSans",sans-serif;}
+.odometer.odometer-auto-theme,.odometer.odometer-theme-default{direction: ltr;}
+.help-block ul {
+    padding-right: 0;
+}
+.text-left {
+    text-align: right !important;
+}
+.newsletter-form #validator-newsletter, .newsletter-form .validation-success {
+    left: auto !important;
+    right: 0 !important;
+}
+
+
+
+
+
+body {
+    direction: rtl;
+}
+.navbar-brand {
+    margin-right: 0;
+}
+.navbar-style-one.navbar-light .others-option {
+    margin: 0 0 0 20px;
+}
+.ml-auto, .mx-auto {
+    margin-right: auto!important;
+    margin-left: 0 !important;
+}
+.main-banner-content .btn-box .video-btn {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.main-banner-content .btn-box .btn-primary {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.about-content {
+    text-align: right;
+}
+.about-content .single-inner-content .title {
+    padding-right: 35px;
+    padding-left: 0;
+}
+.about-content .single-inner-content .title .icon {
+    right: 0;
+    left: auto;
+}
+.circle {
+    right: 0;
+    left: auto;
+}
+.research-process-content {
+    text-align: right;
+}
+.research-process-content .single-process {
+    padding-right: 38px;
+    padding-left: 0;
+}
+.research-process-content .single-process span {
+    right: 0;
+    left: auto;
+}
+.single-blog-post .blog-post-content {
+    text-align: right;
+}
+.contact-info-box {
+    text-align: right;
+}
+.contact-info-box ul li {
+    padding-right: 32px;
+    padding-left: 0;
+}
+.contact-info-box ul li i {
+    right: 0;
+    left: auto;
+}
+#contactForm {
+    text-align: right;
+}
+.rocket {
+    left: 5%;
+    right: auto;
+}
+.map {
+    right: 20%;
+    left: auto;
+}
+.single-footer-widget {
+    text-align: right;
+}
+.single-footer-widget h3::before {
+    right: 0;
+    left: auto;
+}
+.single-footer-widget ul.list li a::before {
+    left: auto;
+    right: 0;
+}
+.single-footer-widget ul.list li a:hover, .single-footer-widget ul.list li a:focus {
+    padding-right: 15px;
+    padding-left: 0;
+}
+.copyright-area ul {
+    text-align: left;
+}
+.copyright-area {
+    text-align: right;
+}
+.main-banner-content .btn-box .video-btn i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.freelancer-banner-content {
+    text-align: right;
+}
+.freelancer-banner-content .btn-box .video-btn {
+    margin-right: 30px;
+    margin-left: 0;
+}
+.freelancer-banner .back-text {
+    left: 20%;
+    right: auto;
+    -webkit-transform: rotate(40deg);
+    transform: rotate(40deg);
+}
+.freelancer-banner-content ul li {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.single-box {
+    text-align: right;
+}
+.single-box h3::before {
+    left: auto;
+    right: 0;
+}
+.freelancer-about-content {
+    text-align: right;
+}
+.single-services {
+    text-align: right;
+    padding: 30px 60px 30px 20px;
+}
+.single-services i {
+    right: 20px;
+    left: auto;
+}
+.skill-content .freelancer-section-title {
+    text-align: right;
+}
+.skill-content .skills .skill-item .skill-header .skill-title {
+    text-align: right;
+}
+.skill-content .skills .skill-item .skill-header .skill-percentage {
+    left: 0;
+    right: auto;
+}
+.skill-content .skills .skill-item .skill-bar .bar-inner .bar {
+    right: 0;
+    left: auto;
+}
+.shorting-menu .filter::before {
+    right: -22px;
+    left: auto;
+}
+.single-blog-item .blog-image .post-tag {
+    left: auto;
+    right: 0;
+}
+.single-blog-item .blog-post-content {
+    text-align: right;
+}
+.contact-content {
+    text-align: right;
+}
+.footer-area-two {
+    text-align: right;
+}
+.footer-area-two ul {
+    text-align: left;
+}
+.accordion .accordion-item {
+    text-align: right;
+}
+.accordion .accordion-item .accordion-title i {
+    left: 10px;
+    right: auto;
+}
+.contact-cta-box {
+    padding: 30px 30px 30px 210px;
+    text-align: right;
+}
+.contact-cta-box .btn {
+    left: 30px;
+    right: auto;
+}
+.new-features-update::before {
+    -webkit-transform: skewY(-169deg);
+    transform: skewY(-169deg);
+}
+.new-features-update-tab.tab .tabs {
+    text-align: right;
+}
+.new-features-update-tab.tab .tabs li a {
+    padding-right: 25px;
+    padding-left: 0;
+}
+.new-features-update-tab.tab .tabs li a i {
+    right: 0;
+    left: auto;
+}
+.saas-banner-content .btn-box .video-btn {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.saas-banner-content .btn-box .video-btn i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.saas-banner-content .btn-box .btn-primary {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.saas-banner .effect {
+    -webkit-transform: rotate(-8deg);
+    transform: rotate(-8deg);
+}
+.services-inner-area .services-inner-content .services-item {
+    padding-right: 90px;
+    padding-left: 0;
+    text-align: right;
+}
+.services-inner-area .services-inner-content .services-item .icon {
+    right: 0;
+    left: auto;
+}
+.features-content .box {
+    padding: 15px 40px 15px 15px;
+    text-align: right;
+}
+.features-content .box i {
+    right: 15px;
+    left: auto;
+}
+.software-banner-content {
+    text-align: right;
+}
+.software-banner-content .btn-box .video-btn {
+    margin-right: 30px;
+    margin-left: 0;
+}
+.software-banner-content .btn-box .video-btn i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.how-its-work-tab.tab .tabs {
+    text-align: right;
+}
+.how-its-work-tab.tab .tabs li a {
+    padding-right: 25px;
+    padding-left: 0;
+}
+.how-its-work-tab.tab .tabs li a i {
+    right: 0;
+    left: auto;
+}
+.app-banner-image {
+    text-align: left;
+}
+.app-banner-content {
+    text-align: right;
+}
+.app-banner-content .btn-box .btn-primary {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.app-banner-content .btn-box .video-btn {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.app-banner-content .btn-box .video-btn i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.about-inner-area .about-inner-content .about-item {
+    padding-right: 90px;
+    padding-left: 0;
+    text-align: right;
+}
+.about-inner-area .about-inner-content .about-item .icon {
+    right: 0;
+    left: auto;
+}
+.features-tab.tab .tabs {
+    text-align: right;
+}
+.features-tab.tab .tabs li a {
+    padding-right: 25px;
+    padding-left: 0;
+}
+.features-tab.tab .tabs li a i {
+    right: 0;
+    left: auto;
+}
+.testimonial-item {
+    text-align: right;
+    padding: 30px 125px 30px 20px;
+    border-left: 3px solid #66e1bb;
+    border-right: none;
+}
+.testimonial-item .client-image {
+    right: 20px;
+    left: auto;
+}
+.testimonial-item::before {
+    right: -17px;
+    left: auto;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+.testimonial-item::after {
+    right: -17px;
+    left: auto;
+    -webkit-transform: rotate(-135deg);
+    transform: rotate(-135deg);
+}
+.download-content {
+    text-align: right;
+}
+.download-content .download-btn a {
+    padding: 12px 65px 12px 35px;
+    margin-left: 5px;
+    margin-right: 0;
+    text-align: right;
+}
+.download-content .download-btn a i {
+    right: 25px;
+    left: auto;
+}
+.lead-generation-banner-content {
+    text-align: right;
+}
+.lead-generation-banner-content .btn-box .video-btn {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.lead-generation-banner-content .btn-box .video-btn i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.lead-generation-banner-content .btn-box .btn-primary {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.lead-generation-features-content {
+    text-align: right;
+}
+.footer-area-three ul {
+    text-align: left;
+}
+.footer-area-three {
+    text-align: right;
+}
+.car-subscription-banner-image {
+    left: 40px;
+    right: auto;
+}
+.car-subscription-banner-content form .btn {
+    left: 5px;
+    right: auto;
+}
+.car-subscription-banner-content {
+    text-align: right;
+}
+.single-work-process::before {
+    left: -115px;
+    right: auto;
+}
+.car-subscription-features-content {
+    text-align: right;
+}
+.featured-cars .car-subscription-section-title {
+    text-align: right;
+}
+.featured-cars-slides.owl-theme .owl-nav {
+    left: 15px;
+    right: auto;
+}
+.featured-cars-slides.owl-theme .owl-nav [class*=owl-].owl-next {
+    margin-right: 5px;
+    margin-left: 0;
+}
+.single-pricing .pricing-features li i {
+    margin-left: 4px;
+    margin-right: 0;
+}
+.contact-box {
+    text-align: right;
+}
+.footer-area-four .copyright-area ul {
+    text-align: left;
+}
+.payment-processing-banner::before {
+    right: 0;
+    left: auto;
+}
+.payment-processing-banner-content {
+    padding-left: 30px;
+    padding-right: 0;
+    margin-right: auto;
+    margin-left: 0;
+    text-align: right;
+}
+.payment-processing-banner-content ul li {
+    padding-right: 15px;
+    padding-left: 0;
+}
+.payment-processing-banner-content ul li::before {
+    right: 0;
+    left: auto;
+}
+.cta-content-five {
+    text-align: right;
+}
+.platform-box h3 {
+    margin: 0 20px 0 0;
+}
+.funfacts-inner .single-funfacts-box {
+    text-align: right;
+}
+.single-item {
+    text-align: right;
+}
+.contact-connect {
+    text-align: left;
+}
+.contact-connect .talk-to-sales {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.contact-content-box {
+    text-align: right;
+}
+.funfacts-inner {
+    max-width: 300px;
+    margin-left: 150px;
+    margin-right: auto;
+}
+.login-area .login-form form {
+    text-align: right;
+}
+.signup-area .signup-form form {
+    text-align: right;
+}
+.sidebar .widget {
+    text-align: right;
+}
+.sidebar .widget .widget-title::before {
+    left: 0;
+    right: auto;
+}
+.sidebar .widget.widget_categories ul li {
+    padding-right: 18px;
+    padding-left: 0;
+}
+.sidebar .widget.widget_categories ul li::before {
+    right: 0;
+    left: auto;
+}
+.sidebar .widget.widget_recent_entries ul li {
+    padding-right: 100px;
+    padding-left: 0;
+}
+.sidebar .widget.widget_recent_entries ul li a img {
+    right: 0;
+    left: auto;
+}
+.sidebar .widget.widget_archive ul li {
+    padding-right: 18px;
+    padding-left: 0;
+}
+.sidebar .widget.widget_archive ul li::before {
+    right: 0;
+    left: auto;
+}
+.blog-details {
+    text-align: right;
+}
+.blog-details .blog-meta ul li:first-child {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.blog-details .blog-meta ul li:last-child {
+    margin-left: 0;
+    margin-right: 10px;
+}
+.blog-details .blog-meta ul li::before {
+    right: -10px;
+    left: auto;
+}
+.blog-details blockquote, .blog-details .blockquote {
+    border-right: 5px solid #ff3366;
+    border-left: none;
+}
+.post-tag-media ul {
+    text-align: right;
+}
+.post-tag-media ul li span {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.post-tag-media ul.social-share {
+    text-align: left;
+}
+.comments-area .comments-title, .comments-area .comment-reply-title {
+    text-align: right;
+}
+.comments-area ol li .comment-body, .comments-area ul li .comment-body {
+    text-align: right;
+}
+.comments-area ol li .comment-body .comment-meta, .comments-area ul li .comment-body .comment-meta {
+    padding-right: 85px;
+    padding-left: 0;
+}
+.comments-area ol li .comment-body .comment-meta .comment-author img, .comments-area ul li .comment-body .comment-meta .comment-author img {
+    right: 0;
+    left: auto;
+}
+.comments-area ol li .comment-body .reply, .comments-area ul li .comment-body .reply {
+    left: 30px;
+    right: auto;
+}
+.comments-area ol li ol li, .comments-area ol li ul li, .comments-area ul li ol li, .comments-area ul li ul li {
+    margin-right: 35px;
+    margin-left: 0;
+}
+.coming-soon .coming-soon-content .newsletter-form button {
+    left: -1px;
+    right: auto;
+}
+.sidebar .widget.widget_recent_entries ul li h5 {
+    margin-bottom: 20px;
+}
+.go-top {
+    left: 15px;
+    right: auto;
+}
+.contact-form::before {
+    right: 0;
+    left: auto;
+    -webkit-clip-path: polygon(3% 0, 100% 0, 100% 100%, 15% 100%);
+    clip-path: polygon(3% 0, 100% 0, 100% 100%, 15% 100%);
+}
+.error-content .search-form .search-submit {
+    left: 0;
+    right: auto;
+}
+.error-content .search-form .search-field {
+    padding-right: 15px;
+    margin-left: 0;
+}
+
+
+
+/* RTL responsive css*/
+@media only screen and (max-width: 767px) {
+    .research-process-content .single-process {
+        padding-left: 0 !important;
+    }
+    .services-inner-area .services-inner-content .services-item {
+        padding-left: 0 !important;
+    }
+    .about-inner-area .about-inner-content .about-item {
+        padding-left: 0 !important;
+    }
+    .platform-box h3 {
+        font-size: 16px;
+        margin: 0 15px 0 0 !important;
+    }
+    .funfacts-inner {
+        margin-left: 0 !important;
+    }
+    .download-content .download-btn a i {
+        right: 10px !important;
+    }
+    .go-top {
+        left: 10px !important;
+        right: auto !important;
+    }
+
+    
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .navbar-style-one.navbar-light .navbar-nav .nav-item .nav-link {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 1650px) {
+    .rocket {
+        left: 18%;
+        right: auto !important;
+    }
+}
